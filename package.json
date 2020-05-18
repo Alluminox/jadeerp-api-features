@@ -1,0 +1,22 @@
+{
+  "name": "@jadeerp/api-features",
+  "version": "1.0.1",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {},
+  "author": {
+    "name": "Jimmy Codder",
+    "email": "alluminox.devellopers@gmail.com",
+    "url": "https://github.com/Alluminox/jadeerp-api-features.git"
+  },
+  "contributors": [
+    "jimmycodder"
+  ],
+  "bugs": "https://github.com/Alluminox/packages/issues",
+  "homepage": "https://github.com/Alluminox/jadeerp-api-features.git",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Alluminox/jadeerp-api-features.git"
+  },
+  "private": false
+}
